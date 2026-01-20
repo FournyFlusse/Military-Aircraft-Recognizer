@@ -26,3 +26,5 @@ Lancez l'application :
 ```bash
 python app_gui.py
 ```
+## Le Modèle
+Le modèle est basé sur un ResNet18 pré-entraîné sur ImageNet, puis fine-tuné sur un dataset spécifique d'avions militaires avec Data Augmentation.
