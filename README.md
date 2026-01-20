@@ -14,11 +14,15 @@ Application de bureau capable de reconnaître différents types d'avions de chas
 1. Clonez le repo :
    ```bash
    git clone [https://github.com/TonPseudo/Military-Aircraft-Recognition.git](https://github.com/TonPseudo/Military-Aircraft-Recognition.git)
+
 Installez les dépendances :
 
-Bash
+```bash
 pip install -r requirements.txt
+```
+
 Lancez l'application :
 
-Bash
+```bash
 python app_gui.py
+```
