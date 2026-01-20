@@ -13,7 +13,7 @@ Application de bureau capable de reconnaître différents types d'avions de chas
 
 1. Clonez le repo :
    ```bash
-   git clone [https://github.com/TonPseudo/Military-Aircraft-Recognition.git](https://github.com/TonPseudo/Military-Aircraft-Recognition.git)
+   git clone [https://github.com/FournyFlusse/Military-Aircraft-Recognizer.git](https://github.com/FournyFlusse/Military-Aircraft-Recognizer.git)
 
 Installez les dépendances :
 
