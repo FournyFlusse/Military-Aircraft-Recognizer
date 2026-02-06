@@ -8,6 +8,17 @@ Application de bureau capable de reconnaître différents types d'avions de chas
 * **Interface :** Tkinter (Python)
 * **Précision :** ~99% sur le dataset de test.
 
+## 📊 Dataset & Compliance (Flickr API)
+Ce projet utilise l'API Flickr pour la constitution du dataset d'entraînement. Conformément aux Conditions d'utilisation des API Flickr :
+
+* Usage Machine Learning : Ce projet utilise une Clé API Commerciale, comme requis par Flickr pour toute application liée à l'apprentissage automatique ou à l'IA, quel que soit le but lucratif ou non.
+
+* Respect des Licences : Seules les images sous licences Creative Commons autorisant la réutilisation sont utilisées pour l'entraînement.
+
+* Attribution : Ce produit utilise l'API Flickr mais n'est ni approuvé ni certifié par SmugMug, Inc.
+
+* Protection des données : Le script de collecte respecte la règle de suppression sous 24h pour tout contenu retiré de la plateforme par ses auteurs.
+
 
 ## 🚀 Installation
 
